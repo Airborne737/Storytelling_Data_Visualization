@@ -1,1 +1,1 @@
-# Storytelling_Data_Visualization
+Storytelling Data Visualization Using Python. Exchange rates. A Dataquest project. Required file is included: euro-daily-hist_1999_2020.csv
